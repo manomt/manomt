@@ -38,4 +38,4 @@ Desde então, venho me dedicando a aprender linguagens de programação, criar p
 
 ---
 
-✨ *"Aprender é a única habilidade que nunca sai de moda."*
+✨ *"Aprender é a 
