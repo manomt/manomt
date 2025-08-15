@@ -27,7 +27,7 @@ Desde então, venho me dedicando a aprender linguagens de programação, criar p
 
 ## 📂 Projetos em destaque
 - **Sistema de Cadastro de Clientes** – Aplicação desktop em PHP com CRUD e MySQL.  
-- **Sistema de ERP** – HTML, CSS e JavaScript, hospedado no GitHub Pages (O projeto foi feito em grupo).
+- **Sistema de ERP** – HTML, CSS, PHP e JavaScript, hospedado no GitHub Pages (O projeto foi feito em grupo).
 
 ---
 
