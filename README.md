@@ -35,7 +35,3 @@ Desde então, venho me dedicando a aprender linguagens de programação, criar p
 - Conseguir minha primeira experiência profissional na área de desenvolvimento.  
 - Aprender e aplicar novas tecnologias no dia a dia.  
 - Contribuir para projetos open source no futuro.
-
----
-
-✨ *"Aprender é a 
